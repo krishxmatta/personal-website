@@ -3,4 +3,4 @@
 
 #+TITLE: Krish Matta
 
-Hi, I'm Krish Matta. Read my articles [[/articles/][here]]. Read my notes [[/notes/][here]].
+Hi, I'm Krish Matta. You can find all my articles [[/articles/][here]] and my notes [[/notes/][here]].
