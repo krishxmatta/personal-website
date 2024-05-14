@@ -1,4 +1,0 @@
-#+HUGO_BASE_DIR: ../..
-#+HUGO_SECTION: main
-
-#+TITLE: Main Notes

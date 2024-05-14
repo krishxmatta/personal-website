@@ -1,6 +1,0 @@
-#+HUGO_BASE_DIR: ../
-#+HUGO_SECTION:
-
-#+TITLE: Notes
-
-My notes are separated into [[/main/][Main]] notes and [[/reference/][Reference]] notes.

@@ -1,6 +1,0 @@
-#+HUGO_BASE_DIR: ../
-#+HUGO_SECTION:
-
-#+TITLE: Krish Matta
-
-Hi, I'm Krish Matta. You can find all my articles [[/articles/][here]] and my notes [[/notes/][here]].
