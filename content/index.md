@@ -12,7 +12,7 @@ I'm an undergraduate student majoring in computer science with a concentration i
 # Interests
 Academically, I'm interested in computer science, mathematics, philosophy, literature, and history. Casually, I enjoy strategy games (particularly card games), nature, horror movies, and many types of music (ambient, hip-hop, indie rock, jazz).
 
-# More on This Site
+# Read More
 You may wish to continue reading more at:
 - [Articles](/articles/): Structured pieces of writing designed for reading.
 - [Notes](/notes/): Informal thoughts and musings.
