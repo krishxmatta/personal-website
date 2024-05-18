@@ -4,6 +4,8 @@ author: ["Krish Matta"]
 draft: false
 ---
 
+![Wandered above the Sea of Fog](ox-hugo/wanderer_above_the_sea_of_fog.jpg)
+
 Hi, I'm Krish Matta.
 
 # Work
