@@ -2,7 +2,7 @@
 title: "Think by Simon Blackburn"
 author: ["Krish Matta"]
 date: 2024-05-07T00:00:00-07:00
-lastmod: 2024-05-12T00:00:00-07:00
+lastmod: 2024-05-18T00:00:00-07:00
 tags: ["draft"]
 draft: false
 ---
@@ -95,3 +95,25 @@ Of course, Descartes's version of the thought experiment does not discuss brains
 Once again, we can not argue against the Evil Demon by citing the coherency of reality vs. dreams, since for all we know, the Evil Demon can input experiences with whatever coherency he wants.
 
 It is extremely difficult to rule out the Evil Demon hypothesis. The axiom which Descartes anchors himself to is "Cogito, ergo sum"; I think, therefore I am. Even if I am in a virtual reality, I am the one who is experiencing it. The Demon's project is to deceive me about everything. But he cannot deceive me if I do not exist. He cannot make me think I exist when I do not, since I must exist to do the thinking. Thus, I must exist.
+
+
+### The Elusive "I" {#the-elusive-i}
+
+Outside of Descartes's skepticism, when we say "I," we are referring to a person that can be described in various ways: for example, I am a student in computer science at Carnegie Mellon University. But when we start doubting, all of this is useless, as it is in the context of our virtual reality. Now, "I" only refers to the subject of thought itself, no body can be ascribed to it (once again, as it is part of the virtual reality).
+
+Then, how can you describe yourself without the context of virtual reality? This is difficult to do. We can not imagine what our true self looks like, as imagination only works for embodied things, but we are not necessarily an embodied thing, reason being that we are certain of ourselves when we are not certain that embodied things exist. Descartes is stating that the soul is distinct from the body as we are certain of the soul but uncertain of the body. Many see this as a fallacy, called the masked man fallacy, as a similar line of reasoning yields: I know who my father is, I do not know who the masked man is, therefore the masked man is not my father. It is doubtful that Descartes commits this fallacy since his only goal is to explore the way in which we know anything about souls and bodies, not to prove that they are different.
+
+Later, German philsopher Georg Christoph Lichtenberg claimed that we should say "it thinks" in the same way we say "it thunders" rather than "I think," as he believes that the existence of a subject of thought "I" is an illusion itself; Descartes is not entitled to an "I" that is thinking, **he can only know that a thought is occurring.**
+
+This is seemingly bizarre, for how can thoughts exist without one to think it? But upon some thought, Lichtenberg's thought does seem motivated: if Descartes can not imagine or characterize this "I," how can he guarantee that it exists?
+
+Putting this issue aside, Descartes raises another difficulty about things that people think they understand best, things which exist in space. Returning again to the ball of wax, we see that even after every sensory aspect of the wax changes, we still understand that the wax is the same, implying that understanding is what is used to reason, not senses.
+
+Descartes is not denying that senses are what tell us that the wax is there in the first place, but instead suggests that the senses are messengers that deliver information which need interpreting. Understanding is what accomplishes this interpretation.
+
+So, we understand that the wax is some thing that can we understand to be the same despite taking on different properties. **In the same way, the self, or the "I," is some thing that we can understand to be the same despite taking on different thoughts.** In other words, the self is no harder to understand than physical bodies, like a ball of wax.
+
+
+### Clear and Distinct Ideas {#clear-and-distinct-ideas}
+
+The first two meditations are classics of philosophy, as they show imagination and rigor to an extent that has rarely been seen. At the end of these, Descartes is left standing on cogito, with no materials he can use to build himself out, particularly since even natural means of reasoning are not protected against the Evil Demon. There is nothing to say that the Evil Demon isn't deceiving us into using false reasoning. From here, Descartes reflects on why the cogito is so certain. It is because he has such a "clear and distinct" perception of its truth, in the same way that a mathematician is convinced of a theorem by its proof. One philosophical ideal is that we can understand the rest of the world using such reasoning; this is rationalism, the idea that we can use primarily reasoning to create knowledge about our world. Knowledge created through this process of rational insight is known as "a priori," as it can be seen as true without any prior knowledge of the world, independent of experience.
