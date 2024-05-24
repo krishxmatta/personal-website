@@ -2,7 +2,7 @@
 title: "Think by Simon Blackburn"
 author: ["Krish Matta"]
 date: 2024-05-07T00:00:00-07:00
-lastmod: 2024-05-18T00:00:00-07:00
+lastmod: 2024-05-23T00:00:00-07:00
 tags: ["draft"]
 draft: false
 ---
@@ -117,3 +117,52 @@ So, we understand that the wax is some thing that can we understand to be the sa
 ### Clear and Distinct Ideas {#clear-and-distinct-ideas}
 
 The first two meditations are classics of philosophy, as they show imagination and rigor to an extent that has rarely been seen. At the end of these, Descartes is left standing on cogito, with no materials he can use to build himself out, particularly since even natural means of reasoning are not protected against the Evil Demon. There is nothing to say that the Evil Demon isn't deceiving us into using false reasoning. From here, Descartes reflects on why the cogito is so certain. It is because he has such a "clear and distinct" perception of its truth, in the same way that a mathematician is convinced of a theorem by its proof. One philosophical ideal is that we can understand the rest of the world using such reasoning; this is rationalism, the idea that we can use primarily reasoning to create knowledge about our world. Knowledge created through this process of rational insight is known as "a priori," as it can be seen as true without any prior knowledge of the world, independent of experience.
+
+
+### The Trademark Argument {#the-trademark-argument}
+
+While reflecting on his own self, Descartes finds that he has an idea of perfection. He argues that having this idea implies some cause, and this cause must be in reality. Thus, a perfect cause, which is God, exists in reality, and he is why we have an idea of perfection.
+
+With God existing, we can soothe our doubts about the world; since God is perfect, eh does not deceive. Our senses do not fail us, and the world is as perceived.
+
+Here is a neater reconstruction of the argument: "I have the idea of a perfect being. This idea must have a cause. A cause must be at least as perfect as its effect. So something at least as perfect as my idea caused it. Therefore such a thing exists. But that thing must be perfect, that is, God."
+
+This is a deeply flawed argument. First: why do ideas must have a cause? In the context of the Evil Demon, we do not know that this is true. For all we know, he may be deceiving us that ideas have a cause. Second, even worse: it doesn't seem logical that a cause must be at least as perfect as its effect. For example, I can think of what a perfectly punctual person looks like, without ever meeting a perfectly punctual person. I can define a perfectly punctual person without one ever existing.
+
+Thus, this "trademark" argument is not valid, in the context of the Evil Demon or not. But, there may be surpressed premises to excuse this argument. For one, he inherited the idea that genuine causation is the cause passing on something to an effect. For example, the transfer of heat is required to make something hot. Thus, in passing on something, it must exist in the first place. Thereby justifying the idea that a cause is at least as perfect as its effect, since it must transfer its "perfectness" to that effect. But this is certainly not true in the general case: movement of a piece of iron through a magnetic field has no inherent electric current, yet it causes one.
+
+
+### The Cartesian Circle {#the-cartesian-circle}
+
+At this point, by its "clear and distinctness," Descartes believes that he has God, who is known to not be a deceiver by his perfectness. But, he has disregarded the idea that "clear and distinct" ideas may still be false by virtue of the Demon.
+
+To combat this, Descartes turns to God, the one whose existence he has just proven, as evidence that what we believe to be clear and distinct as true. One of his contemporaries, Antoine Arnauld, recognized that Descartes was arguing in a circle, now known as the "Cartesian circle."
+
+To make this circle explicit, denote \\( CD \implies T \\) as the conditional "if something is clear and distinct, then it is true," and \\( G \\) as "God exists and does not deceive us." Then, Descartes uses \\( CD \implies T \\) to argue \\( G \\), but then he argues \\( G \\) to show \\( CD \implies T \\). Thus, he establishes \\( (CD \implies T) \iff G \\), but he does not actually show that either is true.
+
+Some defend this by stating that Descartes does not actually need to show that \\( G \implies (CD \implies T) \\). He can be certain that God exists without being sure about the rule \\( CD \implies T \\), in the same way that we can be sure about something without being sure of the principles that we must cite in order to defend them. For example, I can be sure that a sentence is grammatical without knowing the explicit grammatical rules.
+
+Philosophers are very difficult on this possibility; for example, the character Socrates in Plato's _Dialogues_ gets people to say one opinion, then shows them that they can't defen this opinion by citing general principles. But this is not really valid, since, for example, I can recognize that something is in front of me using my eyes without citing the physics of optics and perception.
+
+We can still ask why Descartes things that he can be certain of this instance of the rule \\( CD \implies T \\) when showing \\( G \\). We leave this issue, noting that there is certainly a double standard: he completely removes any mention of the Demon in an effort to expand upon cogito, meaning that perhaps there is no true way off cogito.
+
+
+### Foundations and Webs {#foundations-and-webs}
+
+Scottish philosopher David Hume (1711-1776) criticized Descartes. He first summarizes his position, stating that Descartes promotes us to doubt everything, even our own senses (universal doubt), then to derive everything via a chain of reasoning originating from some original principle, i.e. an axiom. He is not convinced that such an axiom exists, and even if it does, that we could not use any reasoning to advance past it. Thus, Cartesian doubt is unattainable and we can never be fully sure on any subject.
+
+Thus, what should we make of Descartes' works? General skepticism? Or something else entirely?
+
+Hume agrees that a system of beliefs needs to have some sort of foundation to be built on. But, he does not believe that this foundation can be completely rationally verified. **Instead, he accepts the truthfulness of the senses as part of his foundation, and that it cannot be shown via reasoning alone.** Many British philosophers agreed in this line that pure reason alone is insufficient, and such philosophers are labeled as empiricists while Descartes is labeled as a rationalist. Of course, however, philosophers' opinions are more nuanced than labels can express.
+
+The issue with Descartes was that he relied too much on reasoning alone. Instead, we can appeal to nature (our natural tendency to form beliefs and correct them).
+
+The true moral story of the Evil Demon is not to distrust everything, but rather to understand that if we wish to reason about our world, we must take the "leap of faith" and trust our senses. This is what Descartes refers to as "God." Hume believes that we do not need to ask this question in normal life. Thus, hyperbolic doubt is not real.
+
+You may think of this as sensible, or you may think of this as being complacent. But to quell worries of complacency, it's important to realize that what this is not saying is to throw out doubt between how things are in reality and how things appear to be. Instead, approach them within our normal framework of beliefs. Hume himself, approaching it this way, still found the need to reintroduce skepticism. In other words, we can still be skeptic between reality and what we perceive without having to be overly skeptic.
+
+Another sign of optimism is that evolution, which is responsible for our senses and reasoning ability, would not have selected for them if they did not work. If they did not inform of us of reality, then how could we have survived? **The harmony between our minds and our the world is due to the fact that the world is responsible for our minds.** This does not do away with the Evil Demon, but it instead implies that we can trust our senses _in the context of the world as we know it._
+
+A different perspective dissolves any need of foundations. It notes the difference between the coherent structure of our "real" experience as opposed to our sporadi dreams, realizing that coherent structures do not need foundations. For example, a web is simply made up of interconnecting parts, with its strength coming only from those connections. _There is no foundation; some bits support other bits without there being one bit supporting everything._ Austrian philosopher Otto Neurath (1882-1945) used this metaphor for our body of knowledge: "We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom." Any one part can be replaced, assuming that there is enough of the rest on which to stand. This approach is called "coherentism," and I find this paragraph really interesting, but I do note that it seems to rely on analogs to physical systems rather than logic... and moreover, physical systems are derived from "one fundamental principle," that here being gravity in a sense.
+
+Thus, there are four options in epistemology, the theory of knowledge: rational foundationalism (Descartes), natural foundationalism (Hume), coherentism, and skepticism (there is no knowledge).

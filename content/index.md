@@ -12,7 +12,7 @@ Hi, I'm Krish Matta.
 I'm an undergraduate student majoring in computer science with a concentration in machine learning and a minor in mathematics at Carnegie Mellon University. This summer, I'm interning at [Databricks](https://www.databricks.com/) on the Machine Learning Feature Store team. I have previously worked for or collaborated with: [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/) (2022), [University of Delaware Safro Research Group](https://safroresearch.blogspot.com/) (2021 - 2023), and [Roblox](https://www.roblox.com/) (2023).
 
 # Interests
-Academically, I'm interested in computer science, mathematics, philosophy, literature, and history. Casually, I enjoy strategy games (particularly card games), nature, horror movies, and many types of music (ambient, hip-hop, indie rock, jazz).
+Academically, I'm interested in computer science, mathematics, philosophy, literature, and history. Casually, I enjoy strategy games (particularly card games), reading, nature, horror movies, and many types of music (ambient, hip-hop, indie rock, jazz).
 
 # Read More
 Read more at:

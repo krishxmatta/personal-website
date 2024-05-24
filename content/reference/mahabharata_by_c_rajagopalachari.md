@@ -2,7 +2,7 @@
 title: "Mahabharata by C. Rajagopalachari"
 author: ["Krish Matta"]
 date: 2024-04-28T00:00:00-07:00
-lastmod: 2024-05-07T00:00:00-07:00
+lastmod: 2024-05-20T00:00:00-07:00
 tags: ["draft"]
 draft: false
 ---
@@ -63,3 +63,5 @@ In the Puranas, animals can speak, for they typically are reincarnations of prev
 ## Quotes {#quotes}
 
 "No virtuous man is strong enough to live in virtue at all times, nor is any sinner bad enough to exist in one welter of sin. Life is a tangled web and there is no one in the world who has not done both good and evil." - Vyasa
+
+"But learning is one thing and virtue is quite another. It is true that one should know the difference between good and evil, if one is to seek good and shun evil. But this knowledge should soak into every thought and influence every act in one's life. Then indeed knowledge becomes virtue. The knowledge that is merely so much undigested information crammed into the mind, cannot instill virtue. It is just an outward show like our clothes and is no real part of us." - Lomasa
