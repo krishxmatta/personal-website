@@ -23,7 +23,6 @@ Read more at:
 Some sites you can find me on:
 - [GitHub](https://github.com/krishxmatta).
 - [LinkedIn](https://www.linkedin.com/in/krishxmatta/).
-- [Last.fm](https://www.last.fm/user/krishmatta).
 - [Twitter](https://twitter.com/krishmatta).
 
 # Contact

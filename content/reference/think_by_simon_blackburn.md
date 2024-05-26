@@ -2,7 +2,7 @@
 title: "Think by Simon Blackburn"
 author: ["Krish Matta"]
 date: 2024-05-07T00:00:00-07:00
-lastmod: 2024-05-23T00:00:00-07:00
+lastmod: 2024-05-24T00:00:00-07:00
 tags: ["draft"]
 draft: false
 ---
@@ -163,6 +163,11 @@ You may think of this as sensible, or you may think of this as being complacent.
 
 Another sign of optimism is that evolution, which is responsible for our senses and reasoning ability, would not have selected for them if they did not work. If they did not inform of us of reality, then how could we have survived? **The harmony between our minds and our the world is due to the fact that the world is responsible for our minds.** This does not do away with the Evil Demon, but it instead implies that we can trust our senses _in the context of the world as we know it._
 
-A different perspective dissolves any need of foundations. It notes the difference between the coherent structure of our "real" experience as opposed to our sporadi dreams, realizing that coherent structures do not need foundations. For example, a web is simply made up of interconnecting parts, with its strength coming only from those connections. _There is no foundation; some bits support other bits without there being one bit supporting everything._ Austrian philosopher Otto Neurath (1882-1945) used this metaphor for our body of knowledge: "We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom." Any one part can be replaced, assuming that there is enough of the rest on which to stand. This approach is called "coherentism," and I find this paragraph really interesting, but I do note that it seems to rely on analogs to physical systems rather than logic... and moreover, physical systems are derived from "one fundamental principle," that here being gravity in a sense.
+A different perspective dissolves any need of foundations. It notes the difference between the coherent structure of our "real" experience as opposed to our sporadi dreams, realizing that coherent structures do not need foundations. For example, a web is simply made up of interconnecting parts, with its strength coming only from those connections. _There is no foundation; some bits support other bits without there being one bit supporting everything._ Austrian philosopher Otto Neurath (1882-1945) used this metaphor for our body of knowledge: "We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom." Any one part can be replaced, assuming that there is enough of the rest on which to stand. This approach is called "coherentism," and I find this paragraph really interesting, but I do note that it seems to rely on analogs to physical systems rather than logic... and moreover, physical systems are derived from "one fundamental principle," that here being normal forces in a sense.
 
 Thus, there are four options in epistemology, the theory of knowledge: rational foundationalism (Descartes), natural foundationalism (Hume), coherentism, and skepticism (there is no knowledge).
+
+
+### Local Scepticisms {#local-scepticisms}
+
+Skepticism does not have to be global, as in Descartes's case; we can apply it to particular areas.
