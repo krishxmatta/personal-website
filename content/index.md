@@ -21,8 +21,8 @@ Read more at:
 
 # Sites
 Some sites you can find me on:
-- [GitHub](https://github.com/krishxmatta).
-- [LinkedIn](https://www.linkedin.com/in/krishxmatta/).
+- [GitHub](https://github.com/krishmatta).
+- [LinkedIn](https://www.linkedin.com/in/krishmatta/).
 - [Twitter](https://twitter.com/krishmatta).
 
 # Contact
