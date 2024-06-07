@@ -2,7 +2,7 @@
 title: "Think by Simon Blackburn"
 author: ["Krish Matta"]
 date: 2024-05-07T00:00:00-07:00
-lastmod: 2024-05-24T00:00:00-07:00
+lastmod: 2024-06-06T00:00:00-07:00
 tags: ["draft"]
 draft: false
 ---
@@ -170,4 +170,14 @@ Thus, there are four options in epistemology, the theory of knowledge: rational 
 
 ### Local Scepticisms {#local-scepticisms}
 
-Skepticism does not have to be global, as in Descartes's case; we can apply it to particular areas.
+Skepticism does not have to be global, as in Descartes's case; we can apply it to particular areas. There are, however, areas in which skepticism is baffling. Bertrand Russell (1872-1970) was skeptic about time, asking how do we know that the world did not come into existence just a few months ago, but "fools" us into thinking it is much older?
+
+Interestingly, this is scientifically probable. Science says that low entropy systems are more improbable. As physical systems pass through time, entropy increases. It is thus easier for today's disordered world to come into existence than a low-entropy older version of the world.
+
+
+### The Moral {#the-moral}
+
+Knowledge implies both authority and reliability. The scenarios posed by both Descartes and Russell make us question our own reliability. Despite how outlandish these scenarios may appear to us, we don't really have much way in showing that they're false. We can only trust that the way that things appear is the same as that the way that things are. Thus, we have discussed problems of knowledge; in the next chapter, we discuss problems of mind.
+
+
+## Chapter Two Mind {#chapter-two-mind}
